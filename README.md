@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @subhashsharma-coder
-- 👀 I’m interested in learning JS, AI, Computer Vision
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on AI 
+- ate on AI 
 - 📫 How to reach me ...
 
 <!---
